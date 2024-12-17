@@ -1,0 +1,39 @@
+body {
+  font-family: Roboto, serif;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.dark-bg {
+  background-color: #1f2937;
+}
+
+.nav-bar {
+  display: flex;
+  width: 75%;
+  justify-content: space-between;
+  margin: 16px auto;
+}
+
+.nav-logo {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-link-container {
+  display: flex;
+  gap: 16px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
