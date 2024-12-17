@@ -37,3 +37,11 @@ body {
   color: #e5e7eb;
   font-size: 18px;
 }
+
+.section {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto;
+  gap: 20px;
+}
