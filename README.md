@@ -1,0 +1,1 @@
+This repo is to complete the Project: Landing Page from the Odin Project Flexbox Foundations class
